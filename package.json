@@ -18,7 +18,10 @@
   },
   "pnpm": {
     "peerDependencyRules": {
-      "ignoreMissing": ["@firebase/app-compat", "@firebase/app-types"]
+      "ignoreMissing": [
+        "@firebase/app-compat",
+        "@firebase/app-types"
+      ]
     }
   }
 }
